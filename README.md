@@ -41,7 +41,7 @@ custom_key = 'happycoding'
 Encrypted text: mrttaqrhknsw ih puggrur
 Key: happycoding
 
-Decrypted text: hellotherehow are youdoing
+Decrypted text: freecodecamp is awesome
 ```
 
 ---
